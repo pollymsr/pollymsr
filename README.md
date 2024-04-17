@@ -1,8 +1,4 @@
-<div>
-<a href="https://github.com/pollymsr">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pollymsr&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pollymsr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h1>Olá sou a Polly e hoje atuo como Desenvolvedora FullStack</h1>
 
 ## Contatos:
 
