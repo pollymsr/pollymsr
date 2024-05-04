@@ -1,4 +1,4 @@
-<h1>Olá sou a Polly e hoje atuo como Desenvolvedora FullStack</h1>
+<h1>Olá, sou a Polly e atuo hoje como Desenvolvedora FullStack.</h1>
 
 <div>
 <a href="https://github.com/pollymsr">
